@@ -1,4 +1,5 @@
 # Gender-Disparities-in-the-Workforce
+Data Source: [National Survey of College Graduates 2023](https://ncses.nsf.gov/surveys/national-survey-college-graduates/2023)
 
 This project investigates how **gender, education level, and age** influence salary differences among full-time workers in the United States. The goal is to better understand whether higher education reduces the gender pay gap and how the gap evolves over a worker’s career. 
 
